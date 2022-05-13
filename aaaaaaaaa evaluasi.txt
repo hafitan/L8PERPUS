@@ -1,0 +1,2 @@
+1. diusahakan menggunakkan data table
+2. semua file create ganti dengan modal di bootstrap
